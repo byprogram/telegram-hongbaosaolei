@@ -8,7 +8,7 @@
 - 支持后台管理系统，可以查看各类数据<br>
 - 支持USDT、TRX自助充值提现，也可选择人工充值提现
 - 支持尾号扫雷玩法，也可以对接其他玩法
-- 赠送免费搭建+免费更新服务
+- 赠送免费搭建、更新和维护服务
 - Demo预览
     - [后台管理系统演示](http://ksadmin.byprogram.xyz/) `账号:admin 密码:admin`<br>
     - [红包扫雷tg群演示](https://t.me/+nXgsczko7F03NzBl)
