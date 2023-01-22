@@ -2,7 +2,8 @@
 [![](https://img.shields.io/badge/Author-byprogram-orange.svg)](https://github.com/byprogram)
 [![](https://img.shields.io/badge/version-1.0-brightgreen.svg)]([https://github.com/byprogram/telegram-kuaisan-bot])<br>
 <br>
-![gvwgr-kre33](https://user-images.githubusercontent.com/92509765/205933725-217c499c-779b-44e3-824d-e92fca217ab5.gif)
+![video_2023-01-23_01-21-41](https://user-images.githubusercontent.com/121013897/213930238-c64e31dd-0138-40f7-aa34-5648d21288ca.gif)
+
 ## 付费版本，可直接运营（仅售200USDT）
 - 支持后台管理系统，可以查看各类数据<br>
 - 支持USDT、TRX自助充值提现，也可选择人工充值提现
