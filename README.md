@@ -6,14 +6,12 @@
 
 ## 付费版本，可直接运营（仅售200USDT）
 - 支持后台管理系统，可以查看各类数据<br>
-- 支持USDT、TRX自助充值提现，也可选择人工充值提现
+- 支持人工充值提现
 - 支持尾号扫雷玩法，也可以对接其他玩法
 - 赠送免费搭建、更新和维护服务
 - Demo预览
     - [后台管理系统演示](http://ksadmin.byprogram.xyz/) `账号:admin 密码:admin`<br>
     - [红包扫雷tg群演示](https://t.me/+nXgsczko7F03NzBl)
-    - [USDT自助充值提现机器人](https://t.me/czby_bot)
-    - [TRX自助充值提现机器人](https://t.me/TRXCZBOT)
 ## 使用方法
 1.[申请](https://t.me/BotFather)一个telegram机器人,获取token<br>
 2.新建telegram群组，邀请机器人进群，给予管理员权限<br>
